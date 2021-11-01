@@ -26,7 +26,7 @@ int main()
     float profit = 0.0f;
 
     //display the welcoming message
-    cout << "Welcome to Nedim's Cheesy Program" << endl << endl;
+    cout << "Welcome to my 2nd week's programming assignment" << endl << endl;
 
     //prompt the user to input their amount of cheese produced
     cout << "Enter the total number of kilograms of cheese produced: ";
